@@ -17,6 +17,6 @@ public class ParallelStreamTest {
             }
         });
         long duration = System.currentTimeMillis() - start;
-        System.out.println(duration + " seconds");
+        System.out.println(duration + " seconds"); 
     }
 }
